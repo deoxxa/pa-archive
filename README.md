@@ -31,7 +31,7 @@ Usage
 
 There's a command line program, `pa-extract`, for extracting archives.
 
-For the library API, see the [documentation](https://deoxxa.github.com/pa-archive).
+For the library API, see the [documentation](http://deoxxa.github.com/pa-archive).
 
 License
 -------
