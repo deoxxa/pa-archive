@@ -1,0 +1,25 @@
+{
+  "name": "pa-archive",
+  "version": "0.0.0",
+  "description": "Extract and create .pa archives",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/pa-archive.git",
+  },
+  "bin": {
+    "pa-extract": "./bin/pa-extract"
+  },
+  "keywords": [
+    "pa",
+    "extract",
+    "binary",
+    "unpack",
+    "parse",
+    "pack",
+    "create",
+    "archive"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD"
+}
