@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/deoxxa/pa-archive.git",
+    "url": "git://github.com/deoxxa/pa-archive.git"
   },
   "bin": {
     "pa-extract": "./bin/pa-extract"
