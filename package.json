@@ -1,6 +1,6 @@
 {
   "name": "pa-archive",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extract and create .pa archives",
   "main": "index.js",
   "repository": {
